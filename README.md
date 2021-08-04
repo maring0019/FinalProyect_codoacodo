@@ -1,6 +1,6 @@
 # FinalProyect Codo a Codo
 
-Pagina principal
+Página principal
 ![Image text](https://github.com/maring0019/FinalProyect_codoacodo/blob/master/fotoPaginaPrincipal.jpg)
 
 Muestra ingreso de datos: Mail inexistente
